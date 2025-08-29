@@ -6,7 +6,7 @@ The design reduces human exposure, provides multi-sensor confirmation, and lever
 
 ---
 
-<p align=center>
+<p align='center'>
   
   ## Project Poster
   

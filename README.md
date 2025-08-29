@@ -8,9 +8,7 @@ The design reduces human exposure, provides multi-sensor confirmation, and lever
 
 ## Project Images
 
-![Project Poster](images/poster-overview.jpg)  
-![Assembled Robot](images/final-design.jpg)  
-![Web Control Panel](images/web-control.jpg)  
+![Project Poster]([images/poster-overview.jpg](https://github.com/ArijitDutta96395/Nuclear_Plant_Monitoring_Bot/blob/main/Scientific%20Research%20Poster%20(1).png))  
 
 ---
 

@@ -6,8 +6,7 @@ The design reduces human exposure, provides multi-sensor confirmation, and lever
 
 ---
 
-<h1 align="center">Project Poster</h1>
-
+<h align="center">Project Poster</h>
 ![Scientific Research Poster](https://github.com/ArijitDutta96395/Nuclear_Plant_Monitoring_Bot/raw/main/Scientific%20Research%20Poster%20(1).png)
 
 ---
